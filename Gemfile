@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "sinatra", "~> 1.4.4"
+gem "sinatra", "~> 2.2.3"
 gem "sequel", "~> 4.9.0"
 gem "pg", "~> 0.17.1"
 
